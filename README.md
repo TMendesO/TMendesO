@@ -42,8 +42,8 @@
 ```javascript
 const thiago = {
   pronouns: "he" | "his",
-  code: [C#,Javascript, Typescript, HTML, CSS],
-  tools: [.NET, Node, Vue, Redux, AWS, React, Styled-Components, Jest],
+  focus-code: [C#, Javascript, Typescript],
+  focus-tools: [.NET, Node, AWS, Vue],
   Work: {
           organization: "PORT LOUIS ASSESSORIA E SERVICOS EM TECNOLOGIA DA INFORMACAO LTDA",
           Function: "backend developer and technical support",
