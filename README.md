@@ -41,7 +41,7 @@
 
 ```javascript
 const thiago = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   focus-code: [C#, Javascript, Typescript],
   focus-tools: [.NET, Node, AWS, Vue],
   Work: {
