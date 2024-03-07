@@ -41,7 +41,7 @@
 ```javascript
 const thiago = {
   pronouns: "he" | "him",
-  focus-code: [C#, Javascript, Typescript, golang],
+  focus-code: [C#, Javascript, Typescript, Go],
   focus-tools: [.NET, Node, AWS, Vue],
   Work: {
           organization: "PORT LOUIS ASSESSORIA E SERVICOS EM TECNOLOGIA DA INFORMACAO LTDA",
