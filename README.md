@@ -3,7 +3,7 @@
 - 👨‍💻 Systems Analysis and Development - Unicsul-SP
 - 🌱 Development Student
 - 📫 e-mail: thiago.mendes90@yahoo.com.br
-- 🤓 Professional profile: https://github.com/ThiagoMendesOl
+- 🤓 Professional profile: https://github.com/tomendes_meli
   
   <div>
  <a href="https://github.com/TMendesO/github-readme-stats">
@@ -41,12 +41,16 @@
 ```javascript
 const thiago = {
   pronouns: "he" | "him",
-  focus-code: [C#, Javascript, Typescript, Go],
-  focus-tools: [.NET, Node, AWS, Vue],
+  focus-code: [Java, Spring Boot, Spring Security, Go],
+  focus-tools: [Intelij, Fury],
   Work: {
+          organization: "MELI DEVELOPERS BRASIL LTDA",
+          Function: "backend developer",
+          since: "2025",
           organization: "PORT LOUIS ASSESSORIA E SERVICOS EM TECNOLOGIA DA INFORMACAO LTDA",
           Function: "backend developer and technical support",
-          since: "2022"
+          since: "2022",
+          until: "2025"
         }
 }
 ```
